@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4" : {
+            "wordpressBook\\" : "./class" 
+        }
+    },
+    "config": {
+        "vendor-dir": "vendor-wordpressBook"
+    }
+}

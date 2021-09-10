@@ -1,0 +1,31 @@
+
+// ----------- BACKGROUND COLORS ----------- //
+$mainBackgroundColor : rgba(24,25,27,255);
+$firstBackgroundColor: #242527;
+$secondBackgroundColor: #3a3b3d;
+$thirdBackgroundColor: #565758;
+$fourthBackgroundColor: #2c2d2e;
+$lightBlueColor: #3388f1;
+$lightBlueColor2: #0085ff;
+
+// $mainBackgroundColor : white;
+// $firstBackgroundColor: white;
+// $secondBackgroundColor: white;
+// $thirdBackgroundColor: white;
+// $fourthBackgroundColor: white;
+// $lightBlueColor: #3388f1;
+
+// ----------- FONT COLORS ----------- //
+$mainFontColor1: #e5e6ea;
+$mainFontColor2: #b1aba4;
+$mainFontColor3: #fff;
+// ----------- FONT SIZES ----------- //
+$fontSize1: 1rem;
+$fontSize2: 0.8rem;
+
+// ----------- MESSAGING SHORTCUTS ----------- //
+$shortcutsContainerHeight : 21rem;
+$maxScreenHeight: 100vh;
+$mainHeaderHeight: 4rem;
+// $shortcutsContainerTopPos : calc($maxScreenHeight);
+$shortcutsContainerTopPos : calc(100vh - 4rem - 21rem);
