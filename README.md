@@ -3,7 +3,7 @@ développement d'un projet Wordpress/Vuejs inspiré du réseau social bien connu
 
 quelques images :
 ---
-![wordpressBook-img1](https://github.com/patmulot/messenger/blob/main/wordpressBook-img1.JPG)
+![wordpressBook-img1](https://github.com/patmulot/wordpress-Book/blob/main/wordpressBook-img1.JPG)
 
 ---
-![wordpressBook-img2](https://github.com/patmulot/messenger/blob/main/wordpressBook-img2.JPG)
+![wordpressBook-img2](https://github.com/patmulot/wordpress-Book/blob/main/wordpressBook-img2.JPG)
